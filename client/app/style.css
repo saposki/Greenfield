@@ -78,9 +78,26 @@ textarea {
       display: inline-block;
     }
 }*/
+.toy-of-day {
 
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+}
 
 /*Toy Problem Css */
+  .toy{
+    width: 50%;
+    height: 140px;
+    float: left;
+  }
+
+  .toy-intro {
+    width: 50%;
+    height: 140px;
+    float: left;
+  }
+
 
 
 
@@ -193,6 +210,7 @@ textarea {
 img {
   max-width: 100%;
 }
+
 
 
 
